@@ -1,0 +1,72 @@
+﻿<Window x:Class="roeiProjectWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:roeiProjectWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid Name="dataGridBoxes" Grid.Row="1" Visibility="Visible">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="Aqua"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="BorderThickness" Value="0,0,1,2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTextColumn 
+                    Header="bottom"
+                    MinWidth="150"
+                    Width="*" 
+                    Binding="{Binding Bottom}"/>
+                <DataGridTextColumn 
+                    Header="height"
+                    MinWidth="150"
+                    Width="*" 
+                    Binding="{Binding Height}"/>
+                <DataGridTextColumn 
+                    Header="stock"
+                    MinWidth="150"
+                    Width="*" 
+                    Binding="{Binding Stock.Count}"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+
+        <DataGrid Name="showAllDataGridBoxes" Grid.Row="1" Visibility="Hidden">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Background" Value="Aqua"/>
+                    <Setter Property="FontWeight" Value="Bold"/>
+                    <Setter Property="BorderThickness" Value="0,0,1,2"/>
+                    <Setter Property="BorderBrush" Value="Black"/>
+                </Style>
+            </DataGrid.Resources>
+
+        </DataGrid>
+
+
+        <Button x:Name="deleteAllExpBtn" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" Width="100" Height="50" Margin="10" Content="delete all expired" Click="deleteAllExpBtn_Click"/>
+        <Button x:Name="updateOrAddBoxBtn" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Right" Width="100" Height="50" Margin="10" Content="update or add box" Click="updateOrAddBoxBtn_Click"/>
+        <TextBox x:Name="bottomEdgeTextBox" Width="100" Height="30" Text="bottom edge" Margin="690,15,10,172" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="heightTextBox" Width="100" Height="30" Text="height" Margin="690,50,10,137" PreviewTextInput="NumberValidationTextBox"/>
+        <Button x:Name="buyBtn" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="100" Height="50" Margin="10" Content="buy" Click="buyBtn_Click"/>
+        <TextBox x:Name="buyHeightTextBox" Width="100" Height="30" Text="height needed" Margin="350,49,350,138" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="buyBottomEdgeTextBox" Width="100" Height="30" Text="bottom edge needed" Margin="350,16,350,171" PreviewTextInput="NumberValidationTextBox"/>
+        <TextBox x:Name="buyBulkTextBox" Width="100" Height="30" Text="how much" Margin="245,50,455,137" PreviewTextInput="NumberValidationTextBox"/>
+
+        <ComboBox x:Name="comboBox" Width="100" Height="40" HorizontalAlignment="Center" VerticalAlignment="Bottom" SelectionChanged="comboBox_SelectionChanged">
+            <ComboBoxItem Content="boxes by type" IsEnabled="True"/>
+            <ComboBoxItem Content="show all"/>
+        </ComboBox>
+    </Grid>
+</Window>

@@ -1,0 +1,32 @@
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\bin\Debug\roeiProjectWpf.exe.config
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\bin\Debug\roeiProjectWpf.exe
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\bin\Debug\roeiProjectWpf.pdb
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.csproj.AssemblyReference.cache
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\MainWindow.g.cs
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\App.g.cs
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf_MarkupCompile.cache
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf_MarkupCompile.lref
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\MainWindow.baml
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.g.resources
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.Properties.Resources.resources
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.csproj.GenerateResource.cache
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.csproj.CoreCompileInputs.cache
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.exe
+C:\Users\maman\OneDrive\שולחן העבודה\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.pdb
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\bin\Debug\roeiProjectWpf.exe.config
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\bin\Debug\roeiProjectWpf.exe
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\bin\Debug\roeiProjectWpf.pdb
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.csproj.AssemblyReference.cache
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\MainWindow.g.cs
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\App.g.cs
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf_MarkupCompile.cache
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf_MarkupCompile.lref
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\MainWindow.baml
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.g.resources
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.Properties.Resources.resources
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.csproj.GenerateResource.cache
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.csproj.CoreCompileInputs.cache
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.exe
+C:\Users\maman\OneDrive\שולחן העבודה\sela\data structures\roeiProjectWpf\roeiProjectWpf\obj\Debug\roeiProjectWpf.pdb
